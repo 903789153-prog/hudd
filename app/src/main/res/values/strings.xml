@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SystemEnhance</string>
+    <string name="svc_label">SystemEnhance Service</string>
+    <string name="svc_desc">Provides window layer enhancement for full-screen apps.</string>
+</resources>

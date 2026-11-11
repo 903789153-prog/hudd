@@ -1,0 +1,5 @@
+-keep class com.sys.hud.** { *; }
+-dontwarn kotlin.**
+-renamesourcefileattribute Src
+-repackageclasses ''
+-allowaccessmodification
